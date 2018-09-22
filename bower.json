@@ -1,0 +1,17 @@
+{
+  "name": "react-express-exemplar",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Santiago <sjimenez_12@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
